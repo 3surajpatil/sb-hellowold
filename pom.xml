@@ -10,8 +10,8 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javatpoint</groupId>
-	<artifactId>sb-hello-world</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>sb-helloworld</artifactId>
+	<version>1.0.0</version>
 	<name>sb-helloworld</name>
 	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
